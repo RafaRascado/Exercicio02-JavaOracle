@@ -1,10 +1,10 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println("   xxxx ");
-    System.out.println(" x     x");
-    System.out.print("x  x  x  x");
-    System.out.print("\nx        x\nx x    x x\nx  x x   x\n");
-     System.out.println(" x     x");
-   System.out.println("   xxxx ");
+    System.out.println("   ☺☺☺☺ ");
+    System.out.println(" ☺     ☺");
+    System.out.print("☺  ☺  ☺  ☺");
+    System.out.print("\n☺        ☺\n☺ ☺    ☺ ☺\n☺  ☺ ☺   ☺\n");
+    System.out.println(" ☺     ☺");
+    System.out.println("   ☺☺☺☺ ");
   }
 }
